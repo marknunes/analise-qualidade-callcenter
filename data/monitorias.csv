@@ -1,0 +1,201 @@
+﻿id_monitoria;data;operadores;motivo_contato;nota;duracao_seg;problema_resolvido;mes
+1;21/06/2026;Fernanda Sousa;Cancelamento de cartão;97;340;sim;2026-06
+2;24/06/2026;Tatiane Alves;Alteração de limite;95;194;sim;2026-06
+3;03/06/2026;Fernanda Sousa;Cancelamento de cartão;79;185;sim;2026-06
+4;17/06/2026;Carlos Lima;Alteração de limite;80;706;sim;2026-06
+5;07/06/2026;Fernanda Sousa;Contestação de cobrança;78;519;sim;2026-06
+6;19/06/2026;Fernanda Sousa;Contestação de cobrança;64;374;sim;2026-06
+7;11/06/2026;Carlos Lima;Dúvida sobre a fatura;81;434;sim;2026-06
+8;13/06/2026;João Pedro;Desbloqueio;90;189;sim;2026-06
+9;20/06/2026;Rafael Alves;Dúvida sobre a fatura;82;560;sim;2026-06
+10;30/06/2026;Carlos Lima;Alteração de limite;86;477;sim;2026-06
+11;10/06/2026;Rafael Alves;Cancelamento de cartão;90;460;sim;2026-06
+12;23/06/2026;Tatiane Alves;Cancelamento de cartão;67;161;sim;2026-06
+13;25/06/2026;Carlos Lima;Contestação de cobrança;81;328;sim;2026-06
+14;09/06/2026;Tatiane Alves;Desbloqueio;87;554;sim;2026-06
+15;06/06/2026;Tatiane Alves;Dúvida sobre a fatura;76;363;sim;2026-06
+16;20/06/2026;Rafael Alves;Cancelamento de cartão;88;265;sim;2026-06
+17;06/06/2026;Fernanda Sousa;Desbloqueio;73;660;sim;2026-06
+18;27/06/2026;Fernanda Sousa;Dúvida sobre a fatura;84;147;sim;2026-06
+19;26/06/2026;Rafael Alves;Desbloqueio;78;306;sim;2026-06
+20;07/06/2026;Mariana costa;Contestação de cobrança;91;601;sim;2026-06
+21;05/06/2026;Rafael Alves;Desbloqueio;81;664;sim;2026-06
+22;24/06/2026;Mariana costa;Alteração de limite;91;688;sim;2026-06
+23;13/06/2026;Carlos Lima;Dúvida sobre a fatura;55;231;não;2026-06
+24;28/06/2026;Fernanda Sousa;Cancelamento de cartão;100;202;sim;2026-06
+25;26/06/2026;Mariana costa;Alteração de limite;75;484;sim;2026-06
+26;15/06/2026;Rafael Alves;Dúvida sobre a fatura;67;631;não;2026-06
+27;22/06/2026;João Pedro;Desbloqueio;79;639;sim;2026-06
+28;04/06/2026;Fernanda Sousa;Contestação de cobrança;64;390;não;2026-06
+29;01/06/2026;Rafael Alves;Cancelamento de cartão;100;359;sim;2026-06
+30;17/06/2026;Tatiane Alves;Desbloqueio;75;198;sim;2026-06
+31;27/06/2026;João Pedro;Cancelamento de cartão;71;246;sim;2026-06
+32;18/06/2026;Rafael Alves;Desbloqueio;69;633;sim;2026-06
+33;16/06/2026;Fernanda Sousa;Dúvida sobre a fatura;100;404;sim;2026-06
+34;08/06/2026;Carlos Lima;Dúvida sobre a fatura;85;670;sim;2026-06
+35;24/06/2026;Fernanda Sousa;Cancelamento de cartão;77;635;sim;2026-06
+36;22/06/2026;Rafael Alves;Cancelamento de cartão;82;576;sim;2026-06
+37;09/06/2026;Tatiane Alves;Desbloqueio;66;306;sim;2026-06
+38;13/06/2026;Mariana costa;Alteração de limite;79;472;sim;2026-06
+39;15/06/2026;Carlos Lima;Alteração de limite;88;436;sim;2026-06
+40;18/06/2026;Rafael Alves;Cancelamento de cartão;88;325;sim;2026-06
+41;01/06/2026;Carlos Lima;Dúvida sobre a fatura;97;324;sim;2026-06
+42;28/06/2026;Carlos Lima;Alteração de limite;89;428;sim;2026-06
+43;08/06/2026;Fernanda Sousa;Alteração de limite;80;642;sim;2026-06
+44;19/06/2026;Fernanda Sousa;Contestação de cobrança;96;574;sim;2026-06
+45;26/06/2026;João Pedro;Contestação de cobrança;78;531;sim;2026-06
+46;14/06/2026;Tatiane Alves;Dúvida sobre a fatura;85;568;sim;2026-06
+47;22/06/2026;Mariana costa;Desbloqueio;72;152;sim;2026-06
+48;26/06/2026;Fernanda Sousa;Cancelamento de cartão;68;201;sim;2026-06
+49;18/06/2026;Mariana costa;Cancelamento de cartão;70;375;sim;2026-06
+50;28/06/2026;Mariana costa;Alteração de limite;86;167;sim;2026-06
+51;04/06/2026;Carlos Lima;Cancelamento de cartão;100;105;sim;2026-06
+52;06/06/2026;Mariana costa;Contestação de cobrança;96;506;sim;2026-06
+53;07/06/2026;Mariana costa;Dúvida sobre a fatura;99;258;sim;2026-06
+54;13/06/2026;João Pedro;Contestação de cobrança;63;361;não;2026-06
+55;23/06/2026;Tatiane Alves;Contestação de cobrança;100;659;sim;2026-06
+56;05/06/2026;João Pedro;Cancelamento de cartão;72;284;sim;2026-06
+57;02/06/2026;Carlos Lima;Alteração de limite;69;411;sim;2026-06
+58;16/06/2026;Rafael Alves;Cancelamento de cartão;75;604;sim;2026-06
+59;02/06/2026;Carlos Lima;Alteração de limite;87;280;sim;2026-06
+60;03/06/2026;Mariana costa;Dúvida sobre a fatura;81;330;sim;2026-06
+61;29/06/2026;Mariana costa;Alteração de limite;68;130;sim;2026-06
+62;19/06/2026;João Pedro;Desbloqueio;75;625;sim;2026-06
+63;07/06/2026;Mariana costa;Cancelamento de cartão;77;361;sim;2026-06
+64;22/06/2026;Mariana costa;Desbloqueio;73;397;sim;2026-06
+65;30/06/2026;Rafael Alves;Alteração de limite;82;559;sim;2026-06
+66;04/06/2026;Rafael Alves;Cancelamento de cartão;77;165;sim;2026-06
+67;17/06/2026;Fernanda Sousa;Desbloqueio;79;160;sim;2026-06
+68;10/06/2026;Mariana costa;Alteração de limite;100;251;sim;2026-06
+69;23/06/2026;Carlos Lima;Alteração de limite;71;631;sim;2026-06
+70;10/06/2026;Fernanda Sousa;Desbloqueio;100;196;sim;2026-06
+71;04/06/2026;João Pedro;Desbloqueio;97;249;sim;2026-06
+72;20/06/2026;Fernanda Sousa;Desbloqueio;69;305;não;2026-06
+73;17/06/2026;Tatiane Alves;Contestação de cobrança;56;142;sim;2026-06
+74;27/06/2026;Carlos Lima;Dúvida sobre a fatura;84;373;sim;2026-06
+75;11/06/2026;Fernanda Sousa;Contestação de cobrança;84;358;sim;2026-06
+76;18/06/2026;Carlos Lima;Dúvida sobre a fatura;65;527;sim;2026-06
+77;29/06/2026;João Pedro;Alteração de limite;80;126;sim;2026-06
+78;18/06/2026;Mariana costa;Cancelamento de cartão;76;241;sim;2026-06
+79;02/06/2026;João Pedro;Cancelamento de cartão;73;130;sim;2026-06
+80;22/06/2026;Tatiane Alves;Dúvida sobre a fatura;100;345;sim;2026-06
+81;12/06/2026;Rafael Alves;Cancelamento de cartão;87;506;sim;2026-06
+82;30/06/2026;Fernanda Sousa;Contestação de cobrança;58;332;sim;2026-06
+83;01/06/2026;Tatiane Alves;Cancelamento de cartão;94;511;sim;2026-06
+84;09/06/2026;Tatiane Alves;Dúvida sobre a fatura;100;253;sim;2026-06
+85;13/06/2026;Fernanda Sousa;Contestação de cobrança;98;317;sim;2026-06
+86;12/06/2026;Fernanda Sousa;Dúvida sobre a fatura;65;402;sim;2026-06
+87;22/06/2026;João Pedro;Desbloqueio;86;161;sim;2026-06
+88;21/06/2026;Mariana costa;Alteração de limite;92;611;sim;2026-06
+89;11/06/2026;Fernanda Sousa;Alteração de limite;88;357;sim;2026-06
+90;09/06/2026;Carlos Lima;Alteração de limite;80;129;sim;2026-06
+91;14/06/2026;Rafael Alves;Alteração de limite;70;536;sim;2026-06
+92;04/06/2026;Rafael Alves;Cancelamento de cartão;99;484;sim;2026-06
+93;09/06/2026;Rafael Alves;Cancelamento de cartão;94;622;sim;2026-06
+94;12/06/2026;Carlos Lima;Desbloqueio;86;531;sim;2026-06
+95;20/06/2026;Rafael Alves;Desbloqueio;73;397;sim;2026-06
+96;22/06/2026;João Pedro;Contestação de cobrança;100;508;sim;2026-06
+97;23/06/2026;Tatiane Alves;Contestação de cobrança;80;520;sim;2026-06
+98;22/06/2026;Rafael Alves;Alteração de limite;88;268;sim;2026-06
+99;10/06/2026;Fernanda Sousa;Contestação de cobrança;63;401;não;2026-06
+100;26/06/2026;Rafael Alves;Desbloqueio;95;683;sim;2026-06
+101;15/06/2026;Tatiane Alves;Cancelamento de cartão;65;613;não;2026-06
+102;22/06/2026;João Pedro;Alteração de limite;88;176;sim;2026-06
+103;22/06/2026;Tatiane Alves;Desbloqueio;75;330;sim;2026-06
+104;08/06/2026;Fernanda Sousa;Dúvida sobre a fatura;74;293;sim;2026-06
+105;02/06/2026;Mariana costa;Contestação de cobrança;82;164;sim;2026-06
+106;29/06/2026;Fernanda Sousa;Contestação de cobrança;96;679;sim;2026-06
+107;16/06/2026;Carlos Lima;Contestação de cobrança;77;95;sim;2026-06
+108;08/06/2026;Tatiane Alves;Alteração de limite;86;270;sim;2026-06
+109;15/06/2026;Mariana costa;Cancelamento de cartão;91;214;sim;2026-06
+110;26/06/2026;Tatiane Alves;Alteração de limite;85;565;sim;2026-06
+111;18/06/2026;Rafael Alves;Contestação de cobrança;58;543;não;2026-06
+112;29/06/2026;Mariana costa;Desbloqueio;65;252;não;2026-06
+113;25/06/2026;Mariana costa;Cancelamento de cartão;82;623;sim;2026-06
+114;09/06/2026;Carlos Lima;Desbloqueio;99;540;sim;2026-06
+115;08/06/2026;Carlos Lima;Cancelamento de cartão;81;643;sim;2026-06
+116;05/06/2026;Mariana costa;Cancelamento de cartão;92;326;sim;2026-06
+117;23/06/2026;Rafael Alves;Contestação de cobrança;85;428;sim;2026-06
+118;14/06/2026;Fernanda Sousa;Contestação de cobrança;94;153;sim;2026-06
+119;13/06/2026;Rafael Alves;Contestação de cobrança;95;110;sim;2026-06
+120;16/06/2026;João Pedro;Desbloqueio;73;96;sim;2026-06
+121;25/06/2026;Mariana costa;Cancelamento de cartão;63;519;sim;2026-06
+122;09/06/2026;Mariana costa;Dúvida sobre a fatura;98;536;sim;2026-06
+123;13/06/2026;Tatiane Alves;Cancelamento de cartão;73;504;sim;2026-06
+124;27/06/2026;Fernanda Sousa;Alteração de limite;98;568;sim;2026-06
+125;18/06/2026;Tatiane Alves;Dúvida sobre a fatura;94;667;sim;2026-06
+126;03/06/2026;Fernanda Sousa;Contestação de cobrança;84;528;sim;2026-06
+127;06/06/2026;Mariana costa;Desbloqueio;93;306;sim;2026-06
+128;11/06/2026;João Pedro;Contestação de cobrança;86;478;sim;2026-06
+129;09/06/2026;Carlos Lima;Desbloqueio;89;642;sim;2026-06
+130;08/06/2026;Tatiane Alves;Dúvida sobre a fatura;70;160;sim;2026-06
+131;25/06/2026;Rafael Alves;Cancelamento de cartão;91;110;sim;2026-06
+132;08/06/2026;Mariana costa;Dúvida sobre a fatura;84;219;sim;2026-06
+133;19/06/2026;João Pedro;Cancelamento de cartão;95;352;sim;2026-06
+134;20/06/2026;Tatiane Alves;Dúvida sobre a fatura;78;711;sim;2026-06
+135;25/06/2026;Rafael Alves;Dúvida sobre a fatura;95;200;sim;2026-06
+136;30/06/2026;Mariana costa;Cancelamento de cartão;54;409;não;2026-06
+137;03/06/2026;Tatiane Alves;Desbloqueio;63;338;sim;2026-06
+138;28/06/2026;Carlos Lima;Alteração de limite;70;704;sim;2026-06
+139;26/06/2026;Carlos Lima;Alteração de limite;96;469;sim;2026-06
+140;21/06/2026;Carlos Lima;Contestação de cobrança;86;439;sim;2026-06
+141;27/06/2026;Tatiane Alves;Cancelamento de cartão;69;460;não;2026-06
+142;14/06/2026;Tatiane Alves;Alteração de limite;83;270;sim;2026-06
+143;21/06/2026;Mariana costa;Contestação de cobrança;79;641;sim;2026-06
+144;14/06/2026;João Pedro;Desbloqueio;100;696;sim;2026-06
+145;28/06/2026;Mariana costa;Cancelamento de cartão;83;375;sim;2026-06
+146;25/06/2026;Rafael Alves;Alteração de limite;100;565;sim;2026-06
+147;22/06/2026;Fernanda Sousa;Contestação de cobrança;80;422;sim;2026-06
+148;07/06/2026;João Pedro;Desbloqueio;84;453;sim;2026-06
+149;09/06/2026;Rafael Alves;Dúvida sobre a fatura;96;372;sim;2026-06
+150;17/06/2026;Fernanda Sousa;Contestação de cobrança;69;285;sim;2026-06
+151;16/06/2026;Tatiane Alves;Contestação de cobrança;74;577;sim;2026-06
+152;15/06/2026;Carlos Lima;Desbloqueio;79;107;sim;2026-06
+153;08/06/2026;João Pedro;Contestação de cobrança;75;685;sim;2026-06
+154;18/06/2026;João Pedro;Contestação de cobrança;87;633;sim;2026-06
+155;24/06/2026;João Pedro;Desbloqueio;71;554;sim;2026-06
+156;09/06/2026;Carlos Lima;Cancelamento de cartão;79;326;sim;2026-06
+157;11/06/2026;Fernanda Sousa;Cancelamento de cartão;93;279;sim;2026-06
+158;24/06/2026;João Pedro;Alteração de limite;92;585;sim;2026-06
+159;25/06/2026;Fernanda Sousa;Desbloqueio;72;192;sim;2026-06
+160;08/06/2026;Fernanda Sousa;Desbloqueio;80;459;sim;2026-06
+161;01/06/2026;Carlos Lima;Alteração de limite;80;136;sim;2026-06
+162;10/06/2026;Tatiane Alves;Contestação de cobrança;76;219;sim;2026-06
+163;04/06/2026;Mariana costa;Contestação de cobrança;93;570;sim;2026-06
+164;11/06/2026;Carlos Lima;Desbloqueio;71;278;sim;2026-06
+165;28/06/2026;Carlos Lima;Alteração de limite;60;500;não;2026-06
+166;21/06/2026;Fernanda Sousa;Cancelamento de cartão;85;144;sim;2026-06
+167;26/06/2026;Carlos Lima;Alteração de limite;73;344;sim;2026-06
+168;25/06/2026;Rafael Alves;Alteração de limite;78;516;sim;2026-06
+169;26/06/2026;Mariana costa;Desbloqueio;67;479;não;2026-06
+170;28/06/2026;João Pedro;Alteração de limite;68;692;não;2026-06
+171;20/06/2026;Fernanda Sousa;Cancelamento de cartão;100;191;sim;2026-06
+172;09/06/2026;Fernanda Sousa;Cancelamento de cartão;93;173;sim;2026-06
+173;06/06/2026;Mariana costa;Alteração de limite;75;508;sim;2026-06
+174;16/06/2026;Carlos Lima;Cancelamento de cartão;80;388;sim;2026-06
+175;10/06/2026;Carlos Lima;Cancelamento de cartão;77;554;sim;2026-06
+176;30/06/2026;Mariana costa;Dúvida sobre a fatura;64;360;sim;2026-06
+177;18/06/2026;Fernanda Sousa;Dúvida sobre a fatura;83;362;sim;2026-06
+178;02/06/2026;João Pedro;Alteração de limite;89;259;sim;2026-06
+179;24/06/2026;Carlos Lima;Contestação de cobrança;94;539;sim;2026-06
+180;23/06/2026;João Pedro;Alteração de limite;58;401;não;2026-06
+181;18/06/2026;Mariana costa;Desbloqueio;77;130;sim;2026-06
+182;20/06/2026;Carlos Lima;Dúvida sobre a fatura;82;346;sim;2026-06
+183;08/06/2026;Rafael Alves;Dúvida sobre a fatura;100;679;sim;2026-06
+184;25/06/2026;Rafael Alves;Dúvida sobre a fatura;77;365;sim;2026-06
+185;25/06/2026;João Pedro;Cancelamento de cartão;83;542;sim;2026-06
+186;19/06/2026;Carlos Lima;Contestação de cobrança;68;536;não;2026-06
+187;12/06/2026;Fernanda Sousa;Desbloqueio;73;197;sim;2026-06
+188;14/06/2026;João Pedro;Contestação de cobrança;88;597;sim;2026-06
+189;27/06/2026;João Pedro;Desbloqueio;82;180;sim;2026-06
+190;11/06/2026;Mariana costa;Alteração de limite;79;208;sim;2026-06
+191;27/06/2026;Mariana costa;Contestação de cobrança;100;645;sim;2026-06
+192;02/06/2026;Rafael Alves;Desbloqueio;81;282;sim;2026-06
+193;20/06/2026;Fernanda Sousa;Desbloqueio;83;142;sim;2026-06
+194;18/06/2026;Mariana costa;Contestação de cobrança;65;224;não;2026-06
+195;04/06/2026;Tatiane Alves;Cancelamento de cartão;99;335;sim;2026-06
+196;10/06/2026;Carlos Lima;Alteração de limite;85;654;sim;2026-06
+197;14/06/2026;Mariana costa;Dúvida sobre a fatura;100;206;sim;2026-06
+198;21/06/2026;Mariana costa;Desbloqueio;100;247;sim;2026-06
+199;17/06/2026;Mariana costa;Cancelamento de cartão;79;584;sim;2026-06
+200;15/06/2026;Fernanda Sousa;Contestação de cobrança;70;654;sim;2026-06
