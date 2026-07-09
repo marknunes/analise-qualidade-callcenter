@@ -40,3 +40,5 @@ de nota individual simulando níveis reais de experiências destintos.
 ** Principios de storytelling com dados(Cole Nussbaumer Knafic)
 cores destacam desvio de meta, não decoram. Cada elemento visual 
 existe por um motivo de negócio.
+
+<img width="1839" height="1370" alt="qualidade_monitoria" src="https://github.com/user-attachments/assets/010702ac-db23-414a-b543-25e4a674b571" />
